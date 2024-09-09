@@ -2,7 +2,7 @@
 
 Creador del repositorio: Bettina Ríos
 
-Bettina (Alfa)
-Samuel (Bravo)
-Victor (Charlie)
-Eddie (Delta)
+- Bettina (Alfa)
+- Samuel (Bravo)
+- Victor (Charlie)
+- Eddie (Delta)
